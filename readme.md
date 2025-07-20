@@ -1,4 +1,4 @@
-# Learn with Monk Jha
+# products models for flipkart clone webapp 3D product visuliazation.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
